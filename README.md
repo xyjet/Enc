@@ -10,7 +10,7 @@
 
 `$ unzip enc.zip`
 
-`File zip tidak berpasword`
+`File zip berpasword`
 
 `Gw bukan author hanya menyimpan file jika ada author yang igin script  di takedown akan di takedown`
 
