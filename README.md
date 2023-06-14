@@ -16,4 +16,4 @@
 
 `Amankan script anda :)`
 
-<img src="https://github.com/xyjet/Enc/blob/main/p.jpg">
+
